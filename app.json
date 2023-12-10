@@ -1,0 +1,7 @@
+{
+  "name": "Statping",
+  "description": "Statping Server Monitoring with Status Page",
+  "repository": "https://github.com/statping/statping",
+  "logo": "https://assets.statping.com/banner.png",
+  "keywords": ["statping", "server", "monitoring", "status page","golang", "go"]
+}
